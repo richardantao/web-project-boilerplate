@@ -1,1 +1,2 @@
 # web-project-boilerplate
+This project servers as a boilerplate for freelance web projects. It contains the folder structure for collaboration between web designers and developers. `Development/` contains two folders in particular, `client/` and `server/`, that contain boilerplate for a React/Redux frontend and Node/Express (MVC) backend, respectively.
