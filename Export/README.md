@@ -1,0 +1,1 @@
+This folder separates shared content with the client (through Dropbox for example) where Jpg, Png, Icons, Mockups, UI Screens
